@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/avatar-x.jpg" width="96" height="96" alt="鸡骑猫 @mspd4100" />
+<img src="./assets/profile-banner.jpg" width="100%" alt="鸡骑猫 @mspd4100" />
 
 # 鸡骑猫 · TopMindSpace
 
